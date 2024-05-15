@@ -13,13 +13,13 @@ Yesterday, I saw [this](https://www.youtube.com/watch?v=aQSxPzafO_k), and I did�
 
 Let’s take the things from the beginning.
 
-# Human scale: At first people from same (small) towns started working in same place.
+### Human scale: At first people from same (small) towns started working in same place.
 
 Initially people working in their local businesses. Their work could not be done remotely due to lack of means back then. So, they woke up everyday, eat their breakfast with their families and walk to the local office (or farm, factories etc). The waste was the minimum possible. Again, there was waste while working, since they had to be physically in their “work”, but this was something that couldn’t be solved back then.
 
 Eventually stuff started to scale. And fast forward to the present (around latest 2010s) the norm has change.
 
-# OUT of human scale: People are moving to big cities to catch the great opportunities and work in much bigger companies with greater impact.
+### OUT of human scale: People are moving to big cities to catch the great opportunities and work in much bigger companies with greater impact.
 
 Working for a company in a big city is a totally different thing than doing it in a small town. You have to travel to the office and back every single day! Given an average of 45mins on each route it adds about 1.5 hours each day. Which is almost one extra day per week. This is actually unpaid time given from the person to the company, right;
 
@@ -36,7 +36,7 @@ Are we really aware?
 
 Considering all the above, everything we think as normal, end up being a big lie. The hours we work (≠ the hours we spend for work), our salary based on time we work (≠ the salary based on actual time spend for work), the conception that people who “work” more hours are more productive
 
-# Back to human scale: Remote work
+### Back to human scale: Remote work
 
 Switch to remote working and automatically all these things are solved. Instantly. From day #1!
 

@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: 'Higher2Fly',
+  title: 'Theodore Mathioudakis',
   /** your name */
-  author: 'Theodore Mathioudakis',
+  author: 'Higher 2 Fly',
   /** website description */
   desc: 'Trying to understand...',
   /** your deployed domain */
