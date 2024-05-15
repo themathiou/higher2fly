@@ -1,4 +1,8 @@
 
+## v0.1.1
+
+[compare changes](https://github.com/themathiou/higher2fly/compare/v0.1.1...v0.1.1)
+
 ## v0.1.0
 
 

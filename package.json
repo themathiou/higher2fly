@@ -1,7 +1,7 @@
 {
   "name": "higher2fly",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/themathiou/higher2fly",
   "packageManager": "pnpm@7.0.0",
   "scripts": {
