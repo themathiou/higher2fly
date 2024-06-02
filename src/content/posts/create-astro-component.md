@@ -3,6 +3,7 @@ title: 'Tutorial: Create an Astro Component'
 description: 'Learn how to create your first Astro component.'
 pubDate: 'Jul 02 2022'
 categories: ['Astro']
+draft: true
 ---
 
 **If you know HTML, you already know enough to write your first Astro component.**

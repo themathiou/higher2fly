@@ -1,7 +1,7 @@
 ---
 title: About Remote Work
 pubDate: 2022-02-26
-categories: ['thoughs']
+categories: ['thoughs', 'long-read']
 description: 'Thoughts on Remote Work and how it help us move the work & life back to human scale'
 ---
 
