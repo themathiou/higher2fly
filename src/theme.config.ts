@@ -24,7 +24,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your header info */
   header: {
-    twitter: '@moeyua13'
+    twitter: '@theMathiou'
   },
   /** your navigation links */
   navs: [
